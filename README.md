@@ -47,7 +47,8 @@ Instead, this repository utilizes a **Statistically Representative Synthetic Dat
 We analyzed the relationship between clinical features and treatment outcomes.
 * **Key Finding:** As visualized below, patients with **Lateral Canal** involvement generally required a higher median number of maneuvers compared to Posterior Canal cases, confirming clinical literature.
 
-![EDA Analysis](bppv_eda.png)
+![EDA Analysis](visuals/bppv_eda1.png)
+![EDA Analysis](visuals/bppv_eda2.png)
 *(Figure: Distribution of age, canal types, and maneuver requirements in the synthetic cohort)*
 
 ### 3. Predictive Modeling
